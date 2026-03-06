@@ -8,5 +8,5 @@ jobs:
     steps:
       - name: Hello from k3s
         run: |
-          echo "Hello! This job is running on my local k3s cluster."
+          echo "Hello! This job is running on my local k3s cluster.."
           hostname
